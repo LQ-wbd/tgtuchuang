@@ -69,6 +69,6 @@ CREATE TABLE media (
 
 
 
-###设置变量
+### 9. 设置变量
 ![image](https://kycloud3.koyoo.cn/2024092389dc0202409232021524424.png) 
 
